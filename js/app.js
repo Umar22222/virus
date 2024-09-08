@@ -11,11 +11,11 @@
 
 {
     // 2 - misol
-    // let a = +prompt("sonni kiriting")
-    // let b = prompt("bu yerga true deb yozma")
+    let a = +prompt("sonni kiriting")
+    let b = prompt("bu yerga true deb yozma")
 
-    // for(a = a; a <= b; a++){
-    //     console.log(a);
+    for(a = a; a <= b; a++){
+        console.log(a);
         
-    // }
+    }
 }
